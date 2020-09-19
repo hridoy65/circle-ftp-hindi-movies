@@ -1,4 +1,6 @@
 #EXTM3U
+EXTINF:-1 tvg-id="ext" group-title="IPL LIVE",IPL LIVE
+http://103.205.133.44:1935/live/Gtv/playlist.m3u8
 EXTINF:-1 tvg-id="ext" group-title="Temporary",Housefull 3
 http://index1.circleftp.net/ftp1/Hindi%20Movies/2016/Housefull-3%20%282016%29%20720p%20mHD%20Blu-ray%20x264%20AAC%205.1%20Subs%20-DDR/Housefull-3%20%282016%29%20720p%20mHD%20Blu-ray%20x264%20AAC%205.1%20Subs%20-DDR.mkv
 EXTINF:-1 tvg-id="ext" group-title="Hindi Movies 2020(Circle FTP)",Yeh Ballet
