@@ -1,6 +1,6 @@
 #EXTM3U
 EXTINF:-1 tvg-id="ext" group-title="Temporary",Kabhi Alvida Naa Kehna
-http://cdn1.discoveryftp.net/Movies/Hindi/2006/Kabhi%20Alvida%20Naa%20Kehna/Kabhi%20Alvida%20Naa%20Kehna%20%282006%29%20%281080p%20BluRay%20x265%20Natty%29.mkv
+http://ftp.alphamediazone.com/Movies/Hindi%20Movies/%282006%29/Kabhi%20Alvida%20Naa%20Kehna%20%282006%29%20720p/Kabhi%20Alvida%20Naa%20Kehna%20%5B2006%5D%20720p%20BRRip%20AAC%20x264%20BUZZccd.mkv
 EXTINF:-1 tvg-id="ext" group-title="IPL LIVE",IPL LIVE
 http://103.205.133.44:1935/live/Gtv/playlist.m3u8
 EXTINF:-1 tvg-id="ext" group-title="Temporary",Housefull 3
