@@ -3,8 +3,8 @@ EXTINF:-1 tvg-id="ext" group-title="Temporary",DJ
 https://j4er43.cfeucdn.com/secip/13417/eM6FB8VIEWcUXFl9772Z4w/MTAzLjEzOC4xOTAuNTA=/1602968400/hls-vod-s10/flv/api/files/videos/2019/09/12/1568309616w581q.mp4.m3u8
 EXTINF:-1 tvg-id="ext" group-title="IPL LIVE",IPL LIVE
 http://103.205.133.44:1935/live/Gtv/playlist.m3u8
-EXTINF:-1 tvg-id="ext" group-title="Temporary",Housefull 3
-http://index1.circleftp.net/ftp1/Hindi%20Movies/2016/Housefull-3%20%282016%29%20720p%20mHD%20Blu-ray%20x264%20AAC%205.1%20Subs%20-DDR/Housefull-3%20%282016%29%20720p%20mHD%20Blu-ray%20x264%20AAC%205.1%20Subs%20-DDR.mkv
+EXTINF:-1 tvg-id="ext" group-title="Temporary",AA19
+https://emby.hasikhushi.net/videos/153885/stream.mkv?DeviceId=00e139f2-57a8-4782-8ae2-bbb639ddbada&MediaSourceId=cb6e0a050c6f6fce5dc770873cc4bcdc&Static=true&PlaySessionId=fe2c4aff77704ff6890ed1f125afa6d9&api_key=2d4be317c3e9445e921bcdf1c05e8779
 EXTINF:-1 tvg-id="ext" group-title="Hindi Movies 2020(Circle FTP)",Yeh Ballet
 http://index1.circleftp.net/ftp1/Hindi%20Movies/2020/Yeh%20Ballet.2020.1080p.NF.WEB-DL.DD%2B5.1.x264-Telly/Yeh%20Ballet.2020.1080p.NF.WEB-DL.DD%2B5.1.x264-Telly.mkv
 EXTINF:-1 tvg-id="ext" group-title="Hindi Movies 2020(Circle FTP)",Yahan Sabhi Gyani Hain
