@@ -1,6 +1,6 @@
 #EXTM3U
-EXTINF:-1 tvg-id="ext" group-title="Temporary",Kabhi Alvida Naa Kehna
-http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2006/Kabhi%20Alvida%20Naa%20Kehna%20%282006%29/Kabhi%20Alvida%20Naa%20Kehna%20%282006%29%20BluRay%201080p%20Full%20HD%20HEVC%20x265%20DTS%20-%20Ttnbangla.mkv
+EXTINF:-1 tvg-id="ext" group-title="Temporary",DJ
+https://j4er43.cfeucdn.com/secip/13417/eM6FB8VIEWcUXFl9772Z4w/MTAzLjEzOC4xOTAuNTA=/1602968400/hls-vod-s10/flv/api/files/videos/2019/09/12/1568309616w581q.mp4.m3u8
 EXTINF:-1 tvg-id="ext" group-title="IPL LIVE",IPL LIVE
 http://103.205.133.44:1935/live/Gtv/playlist.m3u8
 EXTINF:-1 tvg-id="ext" group-title="Temporary",Housefull 3
